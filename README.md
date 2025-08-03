@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hey, I'm Hirav Kadikar
 
-<!--
-**HiravK/hiravk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Builder | Automotive & Aviation Media | Web3 Curious  
+🏁 Co-founder @ [6Pistons Media](https://instagram.com/6pistonsmedia)  
+🌍 Mumbai-bred | Ex-Podha | Business + Tech + Creative  
+🛠 Currently building on Solana, mastering video, and studying AI
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tools & Tech
+
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![Solana](https://img.shields.io/badge/-Solana-333?style=flat&logo=solana)
+![Git](https://img.shields.io/badge/-Git-333?style=flat&logo=git)
+
+---
+
+### 📈 GitHub Activity
+
+![Hirav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiravk&show_icons=true&theme=tokyonight&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiravk&layout=compact&theme=tokyonight)
+
+---
+
+### 📌 Pinned Work
+> Curated projects, media, and experiments
+
+- `solana-vault-prototype` – Vault logic for yield aggregation  
+- `ai-coursework` – Assignments + experiments from AI coursework  
+- `automotive-reel-toolkit` – Motion presets & workflow experiments  
+- `web3-30days-series` – Tweets + docs from 30 Days of Web3  
+- `6pistonsmedia` – Landing page & brand identity system
+
+---
+
+### 🌐 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/hiravk)  
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/6pistonsmedia)  
+[![6Pistons Media](https://img.shields.io/badge/-6Pistons-grey?style=flat)](https://instagram.com/6pistonsmedia)  
+📩 **Email:** [connect@hirav.me](mailto:connect@hirav.me)
+
+---
+
+![Visitor Count](https://komarev.com/ghpvc/?username=hiravk&style=flat-square)
