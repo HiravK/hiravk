@@ -37,7 +37,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/hiravk)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat&logo=instagram)](https://instagram.com/6pistonsmedia)  
-[![6Pistons Media](https://img.shields.io/badge/-6Pistons-grey?style=flat)](https://instagram.com/6pistonsmedia)  
+[![6Pistons Media](https://img.shields.io/badge/-6Pistons-grey?style=flat)](https://www.6pistons.com)  
 📩 **Email:** [connect@hirav.me](mailto:connect@hirav.me)
 
 ---
