@@ -2,8 +2,7 @@
 
 🚀 Builder | Automotive & Aviation Media | Web3 Curious  
 🏁 Co-founder @ [6Pistons Media](https://instagram.com/6pistonsmedia)  
-🌍 Mumbai-bred | Ex-Podha | Business + Tech + Creative  
-🛠 Currently building on Solana, mastering video, and studying AI
+🌍 Mumbai-bred | Ex-Podha | Business + Tech
 
 ---
 
