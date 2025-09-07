@@ -16,7 +16,8 @@
 
 ### 📈 GitHub Activity
 
-![Hirav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiravk&show_icons=true&theme=tokyonight&hide_title=true)
+![Contributions](https://github-readme-activity-graph.vercel.app/graph?username=hiravk&theme=tokyo-night)  
+![Hirav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hiravk&show_icons=true&theme=tokyonight&hide_title=true)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hiravk&layout=compact&theme=tokyonight)
 
 ---
@@ -28,7 +29,7 @@
 - `ai-coursework` – Assignments + experiments from AI coursework  
 - `automotive-reel-toolkit` – Motion presets & workflow experiments  
 - `web3-30days-series` – Tweets + docs from 30 Days of Web3  
-- `6pistonsmedia` – Landing page & brand identity system
+- `6pistonsmedia` – Landing page & brand identity system  
 
 ---
 
