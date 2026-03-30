@@ -2,28 +2,22 @@
 
 Building across intelligence, media, and systems.
 
-Co-founder → 6Pistons Media  
-Exploring → ML systems, product strategy, Web3 infra  
+co-founder @ 6Pistons.com  | business @ spazorlabs.com
+product strategy, business systems, web2 & web3 tech
 
-Primary execution lives at:  
+Primary execution of 2026 lives at:  
 → https://github.com/developer-spazorlabs
 
 ---
 
 ## Selected Work
 
-- ml-healthsphere  
-- solana-vault-prototype  
-- automotive-reel-toolkit  
-- web3-30days-series  
-
----
-
-## Signal
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hiravk&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
+- blockchain based carbon credit system  
+- iot healthsphere
+- cancer detection classifiers
+- iot based fire detection systems
+- iot based temperature control systems
+- ecom, custom ai solutions
 
 ---
 
