@@ -2,7 +2,7 @@
 
 Building across intelligence, media, and systems.
 
-co-founder @ 6Pistons.com  | business @ spazorlabs.com
+co-founder @ 6Pistons.com  | consulting @ mprofit
 product strategy, business systems, web2 & web3 tech
 
 Primary execution of 2026 lives at:  
